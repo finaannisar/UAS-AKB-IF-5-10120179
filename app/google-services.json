@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "175131895064",
+    "firebase_url": "https://uas-akb-if-5-10120179-default-rtdb.firebaseio.com",
+    "project_id": "uas-akb-if-5-10120179",
+    "storage_bucket": "uas-akb-if-5-10120179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175131895064:android:c297947e3edff6d2ab6a6d",
+        "android_client_info": {
+          "package_name": "com.finaannisar10120179.noters10120179"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175131895064-0kjif6fpjfrp31s7n6u1l8c4pbmhtuni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJyvPhBZNzIJ2_AlsBG4AqunmJvFRr2gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175131895064-0kjif6fpjfrp31s7n6u1l8c4pbmhtuni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175131895064:android:282df2c2d5d39abaab6a6d",
+        "android_client_info": {
+          "package_name": "com.finaannisar10120179.uasakbif_510120179"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175131895064-0kjif6fpjfrp31s7n6u1l8c4pbmhtuni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJyvPhBZNzIJ2_AlsBG4AqunmJvFRr2gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175131895064-0kjif6fpjfrp31s7n6u1l8c4pbmhtuni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
